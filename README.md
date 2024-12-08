@@ -24,5 +24,5 @@ This project creates a festive **Christmas Tree animation** using Python's Turtl
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/TranKienCuong2003/Christmas-Tree
    ```
